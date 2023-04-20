@@ -10,3 +10,4 @@ Ex: interface IAppThemeProviderProps {
 export const AppThemeProvider: React.FC<IAppThemeProviderProps> = ({ children }) => {
     ...
 }
+
